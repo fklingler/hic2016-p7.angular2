@@ -1,0 +1,21 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "quotemark": [true, "single"],
+    "whitespace": [true, "check-branch", "check-decl", "check-module", "check-separator", "check-type"],
+    "comment-format": [],
+    "no-var-requires": false,
+    "no-unused-expression": false,
+    "trailing-comma": false,
+    "object-literal-sort-keys": false,
+    "no-unused-variable": false,
+    "no-string-literal": false,
+    "triple-equals": false,
+    "no-console": [true, "log", "error"],
+    "new-parens": false,
+    "no-conditional-assignment": false,
+    "one-variable-per-declaration": false,
+    "ordered-imports": false,
+    "max-line-length": false
+  }
+}
